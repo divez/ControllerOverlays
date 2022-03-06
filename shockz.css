@@ -129,8 +129,8 @@ background-position: 0 -70px;
 }
 
 .ds4 .back.pressed, .ds4 .start.pressed {
-    /* background-position-y: -23px; */
-    /* margin-top: 2px; */
+    /* background-position-y: -24px; */
+    /* margin-top: 3px; */
     opacity: 1;
 }
 
