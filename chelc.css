@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://imgur.com/07aryK2.png);
+    background: url(https://imgur.com/mFFiKYg.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/K2p1FhL.png);
+    background: url(https://imgur.com/GXHutoG.png);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://imgur.com/HTslGni.png);
+    background: url(https://imgur.com/4aujVtJ.png);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://imgur.com/MSlaQUN.png);
+    background: url(https://imgur.com/zMnO0gC.png);
     position: absolute;
 }
 
