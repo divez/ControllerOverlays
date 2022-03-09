@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(ps4-assets/bumper.svgz) no-repeat;
+    background: url(https://imgur.com/3axOJne.png) no-repeat;
     opacity: 0;
 }
 
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/uheO1mv.png);
+    background: url(https://imgur.com/K2p1FhL.png);
 }
 
 .ds4 .button.pressed {
